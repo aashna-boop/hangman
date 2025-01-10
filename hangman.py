@@ -1,8 +1,3 @@
-# --------------------------------------------------------------#
-# List-Program No 	: L3-P13
-# Developed By	  	: aashna suman
-# Date        	  	: 3 december 2022
-# --------------------------------------------------------------#
 
 s=input('Enter string: ')
 while len(s)>10 or not s.isalpha():
